@@ -64,6 +64,9 @@ a:hover {
   text-decoration: underline;
 }
 
+#content h2 {
+  color: #000
+}
 @media only screen and (max-width: 1042px) {
   .wrapper {
     width: 80%;
